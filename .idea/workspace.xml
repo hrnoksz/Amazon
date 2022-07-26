@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26962af7-c9f7-43cd-9f69-21dc2c978c28" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="26962af7-c9f7-43cd-9f69-21dc2c978c28" name="Changes" comment="updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/amazon/pages/AmazonPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/amazon/pages/AmazonPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/amazon/stepDefinitions/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/amazon/stepDefinitions/Hooks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/amazon/stepDefinitions/amazon_stepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/amazon/stepDefinitions/amazon_stepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/amazon/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/amazon/utilities/BrowserUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/amazon.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/amazon.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/overview-failures.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/overview-failures.html" afterDir="false" />
@@ -19,8 +19,9 @@
       <change beforePath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/report-feature_2724896831.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/report-feature_2724896831.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/report-tag_2149507997.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/cucumber-html-reports/report-tag_2149507997.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/pages/AmazonPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/pages/AmazonPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/stepDefinitions/Hooks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/stepDefinitions/Hooks.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/stepDefinitions/amazon_stepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/stepDefinitions/amazon_stepDefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/amazon/utilities/BrowserUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/amazon/utilities/BrowserUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/amazon.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/amazon.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +85,16 @@
       <option name="presentableId" value="Default" />
       <updated>1658239615853</updated>
       <workItem from="1658239617224" duration="11353000" />
-      <workItem from="1658498568546" duration="13232000" />
+      <workItem from="1658498568546" duration="18218000" />
     </task>
+    <task id="LOCAL-00001" summary="updated">
+      <created>1658840581269</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658840581269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
 </project>

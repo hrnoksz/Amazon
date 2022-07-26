@@ -5,10 +5,9 @@ Feature: Amazon shopping
     Given buyer at Amazon home page
     When buyer searches "<product name>"
     Then the results are listed
-    And buyer click on "iPhone13 512"
-    Then buyer check "Price"
-    Then buyer check "Color"
-    Then buyer check "Stock"
+    And buyer click on product
+    Then buyer check information
+
 
     Examples:
       | product name |

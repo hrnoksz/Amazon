@@ -23,5 +23,20 @@ public class AmazonPage {
     @FindBy(xpath = "//span[@class='a-size-base-plus a-color-base a-text-normal']")
     public List<WebElement> phoneList;
 
+    @FindBy(id = "productTitle")
+    public WebElement productTitle;
+
+    @FindBy(xpath = "(//span[.='512 GB'])[1]")
+    public WebElement productSize;
+
+    @FindBy(xpath = "(//span[@class='a-size-base a-color-base'])[2]")
+    public WebElement productPrice;
+
+    @FindBy(xpath = "//span[.='    Stokta var.   ']")
+    public WebElement productStock;
+
+    @FindBy(xpath = "(//span[@class='selection'])[2]")
+    public WebElement productColor;
+
 
 }
